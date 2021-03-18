@@ -1,39 +1,40 @@
 {
-    "users": [
-      {
-        "userId": 1,
-        "firstName": "Krish",
-        "lastName": "Lee",
-        "phoneNumber": "123456",
-        "emailAddress": "krish.lee@learningcontainer.com"
-      },
-      {
-        "userId": 2,
-        "firstName": "racks",
-        "lastName": "jacson",
-        "phoneNumber": "123456",
-        "emailAddress": "racks.jacson@learningcontainer.com"
-      },
-      {
-        "userId": 3,
-        "firstName": "denial",
-        "lastName": "roast",
-        "phoneNumber": "33333333",
-        "emailAddress": "denial.roast@learningcontainer.com"
-      },
-      {
-        "userId": 4,
-        "firstName": "devid",
-        "lastName": "neo",
-        "phoneNumber": "222222222",
-        "emailAddress": "devid.neo@learningcontainer.com"
-      },
-      {
-        "userId": 5,
-        "firstName": "jone",
-        "lastName": "mac",
-        "phoneNumber": "111111111",
-        "emailAddress": "jone.mac@learningcontainer.com"
-      }
-    ]
-  }
+  "faqs": [
+    {
+      "question": "How to apply for a loan using online portal?",
+      "answer": "Please navigate to Loans secion and click on desired loan type from the list shown",
+      "questionType": "Loans",
+      "date":"2021-01-18T10:24:22ssZ"
+    },
+    {
+      "question": "How to download loan documents using online portal?",
+      "answer": "Please navigate to loans section and in the left navigation panel click on the downloads, from there choose desired loan type from the list and download relaven loan application",
+      "questionType": "Loans",
+      "date":"2021-01-18T10:24:22ssZ"
+    },
+    {
+      "question": "What types of loans are available?",
+      "answer": "We currently offer Personal Loans, Housing Loans, Small Business Loans and Student Loans",
+      "questionType": "Loans",
+      "date":"2021-01-18T10:24:22ssZ"
+    },
+    {
+      "question": "What is the early settlement fee for the loan i acquired?",
+      "answer": "Please reach one of our customer care reperesentative to get the relavent settlement fee details",
+      "questionType": "Loans",
+      "date":"2021-01-18T10:24:22ssZ"
+    },
+    {
+      "question": "How to apply for a Credit Card?",
+      "answer": "Please navigate to Cards secion from left navigation bar and click on desired card type from the list shown",
+      "questionType": "Cards",
+      "date":"2021-01-18T10:24:22ssZ"
+    },
+    {
+      "question": "What are the interest rates applicable to a Credit Card?",
+      "answer": "Please refer the following docuemnt for interest rates",
+      "questionType": "Cards",
+      "date":"2021-01-18T10:24:22ssZ"
+    }
+  ]
+}

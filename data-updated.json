@@ -1,0 +1,16 @@
+{
+    "faqs": [
+      {
+        "question": "How to apply for a loan using online portal?",
+        "answer": "Please navigate to Loans secion and click on desired loan type from the list shown",
+        "questionType": "Loans",
+        "date":"2021-03-18T10:24:22ssZ"
+      },
+      {
+        "question": "How to download loan documents using online portal?",
+        "answer": "Please navigate to loans section and in the left navigation panel click on the downloads, from there choose desired loan type from the list and download relaven loan application",
+        "questionType": "Loans",
+        "date":"2021-03-18T10:24:22ssZ"
+      }
+    ]
+  }
